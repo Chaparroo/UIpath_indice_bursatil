@@ -1,0 +1,6 @@
+{
+  "Name": "robot_inversor_scratch",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
